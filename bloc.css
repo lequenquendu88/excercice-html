@@ -1,0 +1,9 @@
+.container-flex{
+    display:flex;
+    flex-wrap:nowrap;
+    background-color:beige
+}
+.container-flex > div{
+    width:33%;
+    background-color:blue
+}
